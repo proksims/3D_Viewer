@@ -1,0 +1,8 @@
+/home/nomacold/Documents/GIT/3DViewer/C++_3DViewer/src/Build/CMakeFiles/3DViewer_v2.dir
+/home/nomacold/Documents/GIT/3DViewer/C++_3DViewer/src/Build/CMakeFiles/edit_cache.dir
+/home/nomacold/Documents/GIT/3DViewer/C++_3DViewer/src/Build/CMakeFiles/rebuild_cache.dir
+/home/nomacold/Documents/GIT/3DViewer/C++_3DViewer/src/Build/CMakeFiles/list_install_components.dir
+/home/nomacold/Documents/GIT/3DViewer/C++_3DViewer/src/Build/CMakeFiles/install.dir
+/home/nomacold/Documents/GIT/3DViewer/C++_3DViewer/src/Build/CMakeFiles/install/local.dir
+/home/nomacold/Documents/GIT/3DViewer/C++_3DViewer/src/Build/CMakeFiles/install/strip.dir
+/home/nomacold/Documents/GIT/3DViewer/C++_3DViewer/src/Build/CMakeFiles/3DViewer_v2_autogen.dir
