@@ -1,6 +1,6 @@
-# 3DViewer v1.0
+# 3DViewer
 
-Implementation of 3DViewer v1.0.
+Implementation of 3DViewer
 
 In this project you will implement a program to view 3D wireframe models (3D Viewer) in the C/C++ programming language. The models themselves must be loaded from .obj files and be viewable on the screen with the ability to rotate, scale and translate.
 
